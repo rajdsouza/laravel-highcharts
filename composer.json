@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5",
+        "php": ">=5.4",
         "illuminate/support": "4.*|5.0",
         "zendframework/zend-json": "~2.1.2"
     },
